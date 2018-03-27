@@ -4,7 +4,7 @@
   "description": "```typescript",
   "main": "index.js",
   "scripts": {
-    "postpublish":"git push -f ssh://git@gitlab.youvolio.com:522/gapi/gapi-test-util.git",
+    "postpublish":"git push ssh://git@gitlab.youvolio.com:522/gapi/gapi-test-util.git",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
