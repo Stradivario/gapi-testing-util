@@ -1,5 +1,5 @@
 {
-  "name": "@gapi/gapi-testing-util",
+  "name": "@gapi/testing-util",
   "version": "0.7.205",
   "description": "```typescript",
   "main": "index.js",
