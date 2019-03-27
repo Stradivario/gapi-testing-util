@@ -1,6 +1,6 @@
 {
   "name": "@gapi/testing-util",
-  "version": "1.4.90",
+  "version": "1.4.91",
   "description": "```typescript",
   "main": "index.js",
   "scripts": {
